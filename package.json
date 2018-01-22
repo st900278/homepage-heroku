@@ -1,0 +1,22 @@
+{
+  "name": "oberonfrog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st900278/st900278.github.io.git"
+  },
+  "author": "oberonfrog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/st900278/st900278.github.io/issues"
+  },
+  "homepage": "https://github.com/st900278/st900278.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
